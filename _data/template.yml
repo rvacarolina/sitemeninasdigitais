@@ -1,0 +1,15 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ff3c38
+  secondary: a23e48  
+  secondary-dark: a35a2a
+  muted: 1B090F
+  extra: fff275
+
+# Font Families
+font:
+  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  third: '"Bungee","Helvetica Neue", Helvetica,Arial,sans-serif'
+  fourth: '"Fredoka One","Helvetica Neue", Helvetica,Arial,sans-serif'
+  fifth: '"Crete Round","Helvetica Neue", Helvetica,Arial,sans-serif'
