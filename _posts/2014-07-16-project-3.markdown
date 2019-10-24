@@ -8,7 +8,7 @@ thumbnail: updates-thumbnail.jpg
 alt: image-alt
 client: Avisos e Novidades
 description: Fique por dentro das últimas notícias do nosso programa!
-link: https://www.google.com.br/
+links: /sitemeninasdigitais/avisos-e-novidades/
 
 
 ---

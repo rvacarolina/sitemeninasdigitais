@@ -8,6 +8,6 @@ thumbnail: activities-thumbnail.jpg
 alt: image-alt
 client: Atividades
 description: Entre no nosso ambiente online de atividades.
-links: https://www.google.com.br/
+links: /sitemeninasdigitais/atividades/
 
 ---
