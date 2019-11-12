@@ -1,15 +1,22 @@
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        <li><a href="http://google.com"><i class="fa fa-facebook-f fa-inverse"></i></a>
-                        </li>
-                    </ul>
-                </div>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <span class="copyright"><b>Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</b></span>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fab fa-{{ network.title }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline quicklinks">
+                    <li>Site desenvolvido usando Jekyll</li>
+                </ul>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>

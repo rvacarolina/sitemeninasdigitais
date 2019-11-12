@@ -146,6 +146,12 @@ fieldset[disabled] .btn-primary.active {
     background-image: none;
 }
 
+.coloor {
+    background-color:#fff275;
+    border-color: #fff275;
+    color: #ff3c38
+}
+
 .btn-xl.disabled,
 .btn-xl[disabled],
 fieldset[disabled] .btn-xl,
@@ -271,7 +277,7 @@ header {
     text-align: center;
     color: #FCF7F8;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/red-laptop.jpg');
+    background-image: url('{{ site.baseurl }}/img/tecna-cover.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

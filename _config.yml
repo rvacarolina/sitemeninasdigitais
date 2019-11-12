@@ -3,15 +3,15 @@ baseurl: "/sitemeninasdigitais/"
 
 # Site settings
 title: Tecna
-email: your-email@domain.com
+email: carolinarvan@usp.br
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Kelly Rosa Braguetto
   pic: 1
-  position: Lead Designer
+  position: Professora do curso de Bacharelado em Ciência da Computação
   social:
     - title: twitter-square
       url: #
@@ -31,27 +31,27 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Carolina Andrade
   pic: 3
-  position: Lead Developer
+  position: Estudante do curso de Bacharelado em Matemática Aplicada e Computacional
   social:
-    - title: twitter
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/carolinarvan/
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/rvacarolina
+    - title: linkedin
+      url: https://www.linkedin.com/in/carolina-rv-andrade/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter-square
     url: http://twitter.com/
-  - title: facebook
+  - title: facebook-f
     url: http://facebook.com/
   - title: github
     url: http://github.com/
   - title: instagram
-    url: http://instagram.com
+    url: http://instagram.com/
 
 # Postal address (add as many lines as necessary)
 address:

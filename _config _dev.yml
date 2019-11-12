@@ -13,7 +13,7 @@ people:
   pic: 1
   position: Lead Designer
   social:
-    - title: twitter
+    - title: twitter-square
       url: #
     - title: facebook
       url: #
@@ -44,12 +44,14 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Twitter
+  - title: twitter-square
     url: http://twitter.com/
-  - title: Facebook
-    url:
-  - title: GitHub
+  - title: facebook-f
+    url: http://facebook.com/
+  - title: github
     url: http://github.com/
+  - title: instagram
+    url: http://instagram.com/
 
 # Postal address (add as many lines as necessary)
 address:
