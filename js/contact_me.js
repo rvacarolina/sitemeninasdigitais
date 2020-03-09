@@ -42,11 +42,11 @@ $(function() {
                 },
                 error: function() {
                     // Fail message
-                    $('#error').html("<div class='alert alert-danger'>");
-                    $('#error > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+                    $('#success').html("<div class='alert alert-danger'>");
+                    $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
-                    $('#error > .alert-danger').append("<strong>Desculpe " + firstName + ", parece que o nosso servidor não está respondendo. Tente novamente ou mais tarde!");
-                    $('#error > .alert-danger').append('</div>');
+                    $('#success > .alert-danger').append("<strong>Desculpe " + firstName + ", parece que o nosso servidor não está respondendo. Tente novamente ou mais tarde!");
+                    $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");
                 },
