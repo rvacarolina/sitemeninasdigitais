@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Kelly Rosa Braguetto
   pic: 1
-  position: Professora do curso de Bacharelado em Ciência da Computação
+  position: Professora do Departamento de Ciência da Computação
   social:
     - title: twitter-square
       url: #
@@ -20,9 +20,9 @@ people:
     - title: instagram
       url: #
 
-- name: Larry Parker
+- name: Renata Wassermann
   pic: 2
-  position: Lead Marketer
+  position: Professora do Departamento de Ciência da Computação
   social:
     - title: twitter
       url: #
@@ -33,7 +33,7 @@ people:
 
 - name: Carolina Andrade
   pic: 3
-  position: Estudante do curso de Bacharelado em Matemática Aplicada e Computacional
+  position: Estudante de Matemática Aplicada e Computacional
   social:
     - title: instagram
       url: https://www.instagram.com/carolinarvan/
