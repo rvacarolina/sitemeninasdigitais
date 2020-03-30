@@ -1,30 +1,6 @@
-Agency Jekyll theme
+Tecna - Meninas Digitais
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
-
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+Projeto Tecna com o objetivo de implementar o programa Meninas Digitais da Sociedade Brasileira de Computação (SBC) no Instituto de Matemática e Estatística (IME) da USP (Campus Butantã). Este projeto está sendo desenvolvido com o auxílio de professoras, alunas e voluntárias.
 
 
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
