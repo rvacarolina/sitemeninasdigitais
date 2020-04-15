@@ -8,6 +8,6 @@ thumbnail: lectures-thumbnail.jpg
 alt: image-alt
 client: Aulas
 description: Todas as nossas aulas estão disponíveis no link abaixo.
-links: /sitemeninasdigitais/aulas/
+links: /aulas/
 
 ---
